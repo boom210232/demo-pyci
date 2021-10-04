@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/boom210232/demo-pyci.svg?branch=master)](https://travis-ci.com/boom210232/demo-pyci)       
+[![Build Status](https://travis-ci.com/boom210232/demo-pyci.svg?branch=main)](https://travis-ci.com/boom210232/demo-pyci)       
 Continuous Integration Demo
 ============================
 
