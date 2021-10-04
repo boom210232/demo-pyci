@@ -28,7 +28,9 @@ def variance(data):
     4.0
     """
     # some deliberately misformatted code. Use flake8 to fix.
-    n=len(data)  
+    n=len(data)
+    if data == []:
+        raise ValueError( )
     if n==0:
         raise TypeError( )
     average = sum(data)/n
